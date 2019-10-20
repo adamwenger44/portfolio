@@ -1,7 +1,10 @@
 .page {
     width: 100%;
     margin: 0 auto;
+    background-image: url(../../../greek-vase/greek-vase/greek-vase.png);
+    padding-bottom: 50px;
 }
+
 
 #name {
     background-color: #4aaaa5;
@@ -57,7 +60,7 @@
     margin-left: -8px;
     bottom: 0px;
     color: white;
-    border-top: 7px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
 }
 
 .wrapper {
@@ -76,6 +79,7 @@
 
 body {
     background-color: lightgrey;
+    
 }
 .headertwo {
     width: 960px;
